@@ -1,0 +1,17 @@
+adium-theme-ubuntu==0.3.4
+MySQL-python==1.2.5
+pbr==1.8.0
+pycurl==7.43.0
+pyliblzma==0.5.3
+pysqlite==1.0.1
+pytz==2014.10
+rpm-python==4.12.0.1
+six==1.10.0
+sqlparse==0.1.18
+stevedore==1.12.0
+unity-lens-photos==1.0
+urlgrabber==3.9.1
+virtualenv==16.0.0
+virtualenv-clone==0.2.5
+virtualenvwrapper==4.3.1
+yum-metadata-parser==1.1.4
